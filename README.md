@@ -5,7 +5,7 @@
 ## 🔧 المهارات
 - **Backend:** Laravel, Livewire, PHP, REST APIs
 - **Frontend:** HTML, CSS, Tailwind CSS, Alpine.js, jQuery
-- **أخرى:** Motion Graphic, Video Editing, Python, C++
+- **أخرى:**  Python, C
 
 ## 🧩 أبرز المشاريع
 - **نظام حجز العمرة:** منصة متكاملة لحجز رحلات العمرة.
